@@ -3,10 +3,12 @@
 Mi primera página hecha con Markdown. Prueba para ver si aprendo *como se utiliza*.
 
 ## Tabla de Ejemplo
-| Lenguaje    | Descripción                   |
-|-------------|-------------------------------|
-| Markdown    | Lenguaje de marcado ligero    |
-| HTML/CSS    | Creación de páginas web       |
+| Lenguaje    | Descripción                |
+|-------------|----------------------------|
+| Markdown    | Lenguaje de marcado ligero |
+| HTML/CSS    | Creación de páginas web    |
+
+
 
 ## Imagen
 **Frog (Chrono Trigger)**
